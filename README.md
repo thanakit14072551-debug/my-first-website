@@ -15,7 +15,7 @@ Practiced structuring a multi-section page with semantic HTML, linking internal 
 สิ่งที่ได้เรียนรู้: การจัดโครงสร้างหน้าเว็บหลายส่วนด้วย HTML แบบ semantic การเชื่อมลิงก์ภายในหน้าด้วย anchor และจัดสไตล์ด้วย CSS
 
 ## What I'd improve next
-Add a search/filter feature and make the layout responsive for mobile screens.
+Add a search/filter feature , make the layout responsive for mobile screens and add the random choose anime
 
 อยากพัฒนาต่อ: เพิ่มระบบค้นหา/กรอง ,ปรับให้แสดงผลดีขึ้นบนมือถือ และมีระบบสุุ่มเลือกอนิเมะให้
 
