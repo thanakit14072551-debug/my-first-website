@@ -1,30 +1,23 @@
-# Python Mini Projects
+# Anime Recommendation Website
 
-Two small Python programs made while learning core programming concepts: control flow, functions, input validation, and basic data structures.
+A static website that recommends anime organized by genre (Action, Romance, Drama, Sport), built with plain HTML and CSS.
 
-โปรเจกต์เล็ก ๆ สองชิ้นที่เขียนขึ้นระหว่างฝึกพื้นฐาน Python เพื่อฝึกความคิดเชิงตรรกะและการเขียนโปรแกรมแบบมีโครงสร้าง
+เว็บไซต์แนะนำอนิเมะ จัดหมวดหมู่ตามแนว (แอ็คชัน โรแมนซ์ ดราม่า กีฬา) เขียนด้วย HTML และ CSS ล้วน
 
-## Projects
+## Features
+- Navigation menu linking to each genre section
+- Each anime card includes poster, description, "why watch" note, and rating
+- Semantic HTML structure with anchor-based in-page navigation
 
-### 1. Game List Manager (`ui-game.py`)
-A command-line app to manage a list of favorite games — add, remove, and view games through a simple text menu.
-- Concepts used: functions, loops, lists, string handling, user input validation
-- What I'd improve next: add a graphical interface (Tkinter) and save the list to a file so it persists between runs
+## What I learned
+Practiced structuring a multi-section page with semantic HTML, linking internal sections with anchors, and styling with CSS to make content easy to browse.
 
-โปรแกรมจัดการรายชื่อเกมโปรดผ่านเมนูข้อความ เพิ่ม/ลบ/ดูรายชื่อเกมได้
-อยากพัฒนาต่อ: ทำ UI ด้วย Tkinter และบันทึกข้อมูลลงไฟล์ให้ไม่หายเมื่อปิดโปรแกรม
+สิ่งที่ได้เรียนรู้: การจัดโครงสร้างหน้าเว็บหลายส่วนด้วย HTML แบบ semantic การเชื่อมลิงก์ภายในหน้าด้วย anchor และจัดสไตล์ด้วย CSS
 
-### 2. Number Guessing Game (`guessing_game.py`)
-Classic guessing game where the program picks a random number and gives "too high / too low" hints until the player guesses correctly, tracking the number of tries.
-- Concepts used: `random` module, loops, conditionals, input validation
+## What I'd improve next
+Add a search/filter feature and make the layout responsive for mobile screens.
 
-เกมทายตัวเลขสุ่ม โปรแกรมจะบอกว่าทายสูงไปหรือต่ำไปจนกว่าจะทายถูก พร้อมนับจำนวนครั้งที่ทาย
-
-## How to run
-```bash
-python ui-game.py
-python guessing_game.py
-```
+อยากพัฒนาต่อ: เพิ่มระบบค้นหา/กรอง และปรับให้แสดงผลดีขึ้นบนมือถือ
 
 ## Author
 Kasagi
