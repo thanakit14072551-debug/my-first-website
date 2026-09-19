@@ -17,7 +17,7 @@ Practiced structuring a multi-section page with semantic HTML, linking internal 
 ## What I'd improve next
 Add a search/filter feature and make the layout responsive for mobile screens.
 
-อยากพัฒนาต่อ: เพิ่มระบบค้นหา/กรอง และปรับให้แสดงผลดีขึ้นบนมือถือ
+อยากพัฒนาต่อ: เพิ่มระบบค้นหา/กรอง ,ปรับให้แสดงผลดีขึ้นบนมือถือ และมีระบบสุุ่มเลือกอนิเมะให้
 
 ## Author
 Kasagi
